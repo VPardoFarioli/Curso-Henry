@@ -1,2 +1,1 @@
-# Curso-Henry
-Repositorio de prueba del curso
+Este proyecto es pureba
